@@ -1,0 +1,16 @@
+﻿  main.c
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA8\PA8\main.c(21,19): warning C4047: 'function': 'char *' differs in levels of indirection from 'int *[3]'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA8\PA8\main.c(21,14): warning C4024: 'bubble_sort': different types for formal and actual parameter 1
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA8\PA8\main.c(23,16): warning C4133: 'function': incompatible types - from 'int *' to 'const char *'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA8\PA8\main.c(28,21): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA8\PA8\main.c(54,47): warning C4047: 'function': 'int *' differs in levels of indirection from 'int **'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA8\PA8\main.c(54,43): warning C4024: 'maximum_occurences': different types for formal and actual parameter 3
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA8\PA8\main.c(54,59): warning C4047: 'function': 'char *' differs in levels of indirection from 'char **'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA8\PA8\main.c(54,49): warning C4024: 'maximum_occurences': different types for formal and actual parameter 4
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA8\PA8\main.c(55,9): warning C4477: 'printf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA8\PA8\main.c(55,9): warning C4313: 'printf': '%c' in format string conflicts with argument 1 of type 'char *'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA8\PA8\main.c(55,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'int *'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA8\PA8\main.c(55,9): warning C4313: 'printf': '%d' in format string conflicts with argument 2 of type 'int *'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA8\PA8\main.c(20,1): warning C4133: 'initializing': incompatible types - from 'char *' to 'int *'
+C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA8\PA8\main.c(46,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+  PA8.vcxproj -> C:\Users\lucar\OneDrive\Documents\WSU\CPTS121\PA8\x64\Debug\PA8.exe
